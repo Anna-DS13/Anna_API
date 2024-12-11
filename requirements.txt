@@ -1,1 +1,5 @@
 fastapi[standard]
+joblib
+pandas
+numpy
+scikit-learn
